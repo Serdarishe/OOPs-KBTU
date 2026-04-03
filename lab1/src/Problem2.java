@@ -9,6 +9,5 @@ public class Problem2 {
         System.out.println(n*4);
         System.out.println(n*(Math.sqrt(2)));
 
-
     }
 }
